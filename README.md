@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mo asadi</h1>
-<h3 align="center">A passionate backend or blockchain developer from ww(remote)</h3>
+<h3 align="center">A passionate backend or blockchain developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moasadi&label=Profile%20views&color=0e75b6&style=flat" alt="moasadi" /> </p>
 
